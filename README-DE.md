@@ -19,7 +19,7 @@ Alles, was für die Verknüpfung von Automate.io und SIGNL4 nötig ist, ist eine
 - Alarmierung des Teams in SIGNL4 per mobilem Push, Text und Sprache
 - Nachverfolgung und transparente Quittierung in der mobilen App
 - Eskalation von Alarmen wenn eine bestimmte Zeit verstrichen ist
-- Integrierte Bereitschaftsplanung, um die richtigen Personen zur richtigen Zeit zu alarmieren
+- Integrierte Bereitschafts-Planung, um die richtigen Personen zur richtigen Zeit zu alarmieren
 
 ## Szenarien
 
@@ -77,4 +77,4 @@ Sie können in der Mitte einen Filter hinzufügen, um den SIGNL4-Alarm nur unter
 Das ist es. Sie können nun Ihren Bot speichern und Automate.io wird Sie bitten, ihn zu testen. Es wartet dann darauf, dass ein neuer Deal in HubSpot CRM generiert wird. Dies löst den Bot aus und Ihr SIGNL4-Team erhält die Benachrichtigung (wenn der Betrag des Deals höher als 200 Euro war).
 
 Ein Beispiel finden Sie auf in GitHub:
-https://github.com/signl4/signl4-integration-automate-ip
+https://github.com/signl4/signl4-integration-automate-io
