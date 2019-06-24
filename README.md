@@ -54,7 +54,7 @@ Logon to the Automate.io portal and create a new Bot.
 
 The final result of our bot will look like this.
 
-![Data Generator](crosser-data-generator.png)
+![Automate.io Bot](automate-io-bot.png)
 
 2. Add the HubSpot CRM Activity  
 
