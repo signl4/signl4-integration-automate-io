@@ -10,7 +10,7 @@ Automate.io is a workflow automation platform. It connects all your cloud applic
 
 ## How it Works
 
-All it takes to pair Automate.io and SIGNL4 is a Webhooks action in your Automate.io Bot that calls the SIGNL4 webhook to trigger the alert.
+All it takes to pair Automate.io and SIGNL4 is a Webhooks Action in your Automate.io Bot that calls the SIGNL4 webhook to trigger the alert.
 
 ## Integration Capabilities
 
